@@ -6,7 +6,7 @@
  History
  ------- 
  VERSION AUTHOR DATE USER-STORY Description
- 1.0 - Ali Zafar (Salesforce)
+ 1.0 - Ali Zafar (Makepositive)
  ***********************************************************************/
 public without sharing class w24CustomSettingsManager 
 {
